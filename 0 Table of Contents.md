@@ -1,6 +1,7 @@
 TOC 
 #sqlserver 
 
+any line starting with // is my comment, maybe unrelated 
 # DAY 1 
 - [[1.1 DB life Cycle ]]
 - [[1.2 DB design]] 
